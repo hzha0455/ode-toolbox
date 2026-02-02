@@ -32,6 +32,5 @@
     },
     "continuousIntegration": "https://github.com/nest/ode-toolbox/",
     "issueTracker": "https://github.com/nest/ode-toolbox/issues",
-    "version": "2.5.9-post-dev"
+    "version": "2.5.12-post-dev"
 }
-
